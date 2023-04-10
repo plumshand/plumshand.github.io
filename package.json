@@ -1,0 +1,24 @@
+{
+  "name": "plumshand",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "src:dev": "vuepress dev src --port 8077",
+    "src:build": "vuepress build src"
+  },
+  "devDependencies": {
+    "@fortawesome/vue-fontawesome": "^3.0.3",
+    "@vuepress/client": "^2.0.0-beta.61",
+    "@vuepress/plugin-register-components": "^2.0.0-beta.61",
+    "vue": "^3.2.47",
+    "vuepress": "^2.0.0-beta.61"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-regular-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@tabler/icons-vue": "^2.12.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "strict": true,
+        "module": "ES2020",
+        "moduleResolution": "node",
+        "rootDir": "./src/.vuepress",
+        "paths": {
+            "@theme/*": ["./src/.vuepress/plumstheme/src/client/components/*"]
+        }
+    },
+    "include": [
+        "./src/.vuepress/components",
+        "./src/.vuepress/ogp",
+        "./src/.vuepress/plumstheme/src/client",
+        "./src/.vuepress/plumstheme/src/shared",
+        "./src/.vuepress/client.ts"
+    ]
+}
