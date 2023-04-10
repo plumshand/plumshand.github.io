@@ -65,7 +65,7 @@ export default defineUserConfig({
                 },
             },
             domain: 'https://plumshand.github.io',
-            image: '/favicon.png',
+            image: '/plumshand.png',
         }),
     ],
 
