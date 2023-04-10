@@ -1,6 +1,6 @@
 ---
 description: Brand New Dayリミックスでの自分の応募曲について
-updatedDate: 2023/04/10 18:43:05 +0900
+updatedDate: 2023/04/10 19:19:57 +0900
 ---
 
 # Brand New Dayリミックス
