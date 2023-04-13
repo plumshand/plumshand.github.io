@@ -93,9 +93,9 @@ export async function makeBlog(app: App) {
         });
         app.pages.push(yearIndexPage)
 
-        for (const month of Object.keys(yearData)) {
+        for (const month of Object.keys(yearData).sort().reverse()) {
             const monthData = yearData[month]
-            for (const day of Object.keys(monthData)) {
+            for (const day of Object.keys(monthData).sort().reverse()) {
                 const dayData: DayContentData[] = monthData[day]
                 for (const dayContent of dayData) {
                     if (recentPages.length >= 5) {
