@@ -93,7 +93,7 @@ const isActive = computed(() => {
         v-bind="$attrs">
         <slot name="before" />
         <template v-if="item.icon">
-            <fa :icon="item.icon"></fa>
+            <i :class="item.icon"></i>
         </template>
         {{ item.text }}
         <AutoLinkExternalIcon v-if="isBlankTarget && !item.noExternalIcon" />

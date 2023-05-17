@@ -44,10 +44,10 @@ DTMに関しては、昔から音楽制作はまあまあ憧れがあったの�
 
 しっかりと聴き込ませて頂きます、とか言ってますがなんとまだ聴けてません。どういうことなの……。
 
-* 左上：<fa icon="fa-brands fa-twitter fa-fw"></fa>[KURANTORION](https://twitter.com/kurantorion) さん 「BREAK THE WALL」
-* 右上：<fa icon="fa-brands fa-twitter fa-fw"></fa>[OX-project](https://twitter.com/OXproj) さん 「LAST BOSS RUSH」
-* 左下：<fa icon="fa-brands fa-twitter fa-fw"></fa>[Beagle Kick](https://twitter.com/beagle_wada) さん 「Mastering Treasure - Shelly」
-* 右下：<fa icon="fa-brands fa-twitter fa-fw"></fa>[qupqup](https://twitter.com/kousei101103) さん 「Light Ai」
+* 左上：<i class="fa-brands fa-twitter fa-fw"></i>[KURANTORION](https://twitter.com/kurantorion) さん 「BREAK THE WALL」
+* 右上：<i class="fa-brands fa-twitter fa-fw"></i>[OX-project](https://twitter.com/OXproj) さん 「LAST BOSS RUSH」
+* 左下：<i class="fa-brands fa-twitter fa-fw"></i>[Beagle Kick](https://twitter.com/beagle_wada) さん 「Mastering Treasure - Shelly」
+* 右下：<i class="fa-brands fa-twitter fa-fw"></i>[qupqup](https://twitter.com/kousei101103) さん 「Light Ai」
 
 左上の「BREAK THE WALL」はクランとリオンさんのファーストアルバムになります。
 各楽曲もそうですが、Wag@BeepさんのリミックスもYouTubeで聴くのとは違い音質も良いという噂も耳にしたので、聴くのが楽しみです。

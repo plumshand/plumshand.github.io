@@ -13,7 +13,7 @@ updatedDate: 2023/04/10 19:19:57 +0900
 
 ## 原曲「Brand New Day」について
 
-* <fa icon="fa-brands fa-fw fa-youtube"></fa>[クランとリオン [MV] Brand New Day](https://www.youtube.com/watch?v=DMLD-iIL0fY)
+* <i class="fa-brands fa-fw fa-youtube"></i>[クランとリオン [MV] Brand New Day](https://www.youtube.com/watch?v=DMLD-iIL0fY)
 
 2023年2月17日に各配信サービスでリリースされました。
 聴いてみたファーストインプレッションは、「お二人らしさがふんだんに盛り込まれているな」と感じました。
@@ -27,7 +27,7 @@ updatedDate: 2023/04/10 19:19:57 +0900
 
 ## 自分のリミックス
 
-* <fa icon="fa-brands fa-fw fa-youtube"></fa>[クランとリオン「Brand New Day」リミックスコンテストVol.1応募曲](https://www.youtube.com/watch?v=Eq12-t8ioGc)
+* <i class="fa-brands fa-fw fa-youtube"></i>[クランとリオン「Brand New Day」リミックスコンテストVol.1応募曲](https://www.youtube.com/watch?v=Eq12-t8ioGc)
 
 今回のリミックスコンテストではこの楽曲をリミックスするわけですが、悩みました。
 ひとまず細かいところはどうするかは置いておいて、目標の方向性的なものを以下のようにしました。

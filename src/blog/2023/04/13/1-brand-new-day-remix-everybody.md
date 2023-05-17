@@ -28,18 +28,18 @@ YouTubeで初心者DTMer向けに作曲方法や、プラグインのセール�
 2023年2月17日にデビューシングルとなる「Brand New Day」をリリースし、iTunes Storeでジャンル別エレクトロニック部門で見事1位を獲得されました。
 初心者が音楽をやるにあたり役に立つ情報の配信や交流の場を用意してくれているので、気になった方はぜひTwitterやYouTubeを覗いてみてください。
 
-* <fa icon="fa-brands fa-fw fa-twitter"></fa>[Twitter @kurantorion](https://twitter.com/kurantorion)
-* <fa icon="fa-brands fa-fw fa-youtube"></fa>[YouTube クランとリオン【初心者向けDTM動画】](https://www.youtube.com/@kurantorion)
-* <fa icon="fa-brands fa-fw fa-youtube"></fa>[YouTube クランとリオン【VTuber】](https://www.youtube.com/@kurantorionvtuber)
-* <fa icon="fa-brands fa-fw fa-youtube"></fa>[クランとリオン リミックスコンテスト全曲視聴会アーカイブ](https://www.youtube.com/watch?v=ntoG17ZUtcE)
-* <fa icon="fa-brands fa-fw fa-youtube"></fa>[クランとリオン リミックスコンテスト表彰式アーカイブ](https://www.youtube.com/watch?v=jfsQm2qxyLk)
-* <fa icon="fa-brands fa-fw fa-youtube"></fa>[クランとリオン [MV] Brand New Day](https://www.youtube.com/watch?v=DMLD-iIL0fY)
+* <i class="fa-brands fa-fw fa-twitter"></i>[Twitter @kurantorion](https://twitter.com/kurantorion)
+* <i class="fa-brands fa-fw fa-youtube"></i>[YouTube クランとリオン【初心者向けDTM動画】](https://www.youtube.com/@kurantorion)
+* <i class="fa-brands fa-fw fa-youtube"></i>[YouTube クランとリオン【VTuber】](https://www.youtube.com/@kurantorionvtuber)
+* <i class="fa-brands fa-fw fa-youtube"></i>[クランとリオン リミックスコンテスト全曲視聴会アーカイブ](https://www.youtube.com/watch?v=ntoG17ZUtcE)
+* <i class="fa-brands fa-fw fa-youtube"></i>[クランとリオン リミックスコンテスト表彰式アーカイブ](https://www.youtube.com/watch?v=jfsQm2qxyLk)
+* <i class="fa-brands fa-fw fa-youtube"></i>[クランとリオン [MV] Brand New Day](https://www.youtube.com/watch?v=DMLD-iIL0fY)
 
 ## 感想
 
 ### シラカミ777 さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day / クランとリオン REMIX](https://www.youtube.com/watch?v=80keg7EakdQ)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day / クランとリオン REMIX](https://www.youtube.com/watch?v=80keg7EakdQ)
 
 トップを飾るにふさわしい、これぞザ・リミックスという感じのリミックスでした。
 ノリだけじゃなくて歌のメロディも変化をつけているあたり芸が細かいと感じます。
@@ -47,7 +47,7 @@ YouTubeで初心者DTMer向けに作曲方法や、プラグインのセール�
 
 ### dirty magiq さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン - Beand New Day(dirty magiq Remix)](https://www.youtube.com/watch?v=hLeNqJvTOB4)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン - Beand New Day(dirty magiq Remix)](https://www.youtube.com/watch?v=hLeNqJvTOB4)
 
 疾走感溢れるトランスリミックスですね。
 サビで抜き気味になってその後にドロップという形、構成で魅せてきます。
@@ -58,7 +58,7 @@ YouTubeで初心者DTMer向けに作曲方法や、プラグインのセール�
 
 ### shiz さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[[クランとリオン]Brand New Day - Remixed by shiz -](https://www.youtube.com/watch?v=Gkmnn96UUj4)
+* <i class="fa-brands fa-youtube fa-fw"></i>[[クランとリオン]Brand New Day - Remixed by shiz -](https://www.youtube.com/watch?v=Gkmnn96UUj4)
 
 イントロからキラキラしたウワモノのシンセが大変良いです。
 Bメロの8bitなサウンドもうまく組み込めていて気持ちいいですね。
@@ -66,14 +66,14 @@ Bメロの8bitなサウンドもうまく組み込めていて気持ちいいで
 
 ### 優唯愛 さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day Rimix by 優唯愛](https://www.youtube.com/watch?v=5Rr6INXb_Jw)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day Rimix by 優唯愛](https://www.youtube.com/watch?v=5Rr6INXb_Jw)
 
 オケと歌が合ってないような合ってるような、不思議な浮遊感を感じます。
 ボイスサンプルも効果的に使って、抜くところは抜いて盛り上げるところは盛り上げているので聴いていて楽しくて良いですね。
 
 ### Francesco Tossi さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day (Francesco Tossi Remix)](https://www.youtube.com/watch?v=AJKmOPbq-n0)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day (Francesco Tossi Remix)](https://www.youtube.com/watch?v=AJKmOPbq-n0)
 
 すごく大人しい、それでいてすごくオシャレで独特の雰囲気のメロディ、構成、雰囲気を醸しだしています。
 リオンさんのソロラップやクランさんのソロの裏にまた歌声を重ねるのも匠の妙が出ていると思います。
@@ -81,7 +81,7 @@ Bメロの8bitなサウンドもうまく組み込めていて気持ちいいで
 
 ### Spade さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day (SpadeRemix)](https://www.youtube.com/watch?v=xRNx-vKa1ig)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day (SpadeRemix)](https://www.youtube.com/watch?v=xRNx-vKa1ig)
 
 ノリのいいHardcoreで良きです。
 と思ったら、動画内でもジャンルを表記されていますが、DnBだったりLo-FiになったりArtcoreになったりとジャンルがコロコロ変わります。
@@ -89,7 +89,7 @@ Bメロの8bitなサウンドもうまく組み込めていて気持ちいいで
 
 ### shinome さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン - Brand New Day(shinome Remix)［Uplifting Trance］](https://www.youtube.com/watch?v=Z-5WZ7xItAI)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン - Brand New Day(shinome Remix)［Uplifting Trance］](https://www.youtube.com/watch?v=Z-5WZ7xItAI)
 
 のっけから心臓をえぐってくるようなキックが気持ちいいですね。
 YouTubeでコメントされてる方もおられましたが、ライブのオープニングアンセム感もあり、これから盛り上がっていくぞ！というオーディエンスのコールが聴こえる気すらします。
@@ -98,7 +98,7 @@ YouTubeでコメントされてる方もおられましたが、ライブのオ�
 
 ### HIKAGENOKESHIKI さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[KURANTORION REMIX CONTEST 参加曲（#クラリミコン）HIKAGENOKESHIKI REMIX](https://www.youtube.com/watch?v=L8vK27IDhoc)
+* <i class="fa-brands fa-youtube fa-fw"></i>[KURANTORION REMIX CONTEST 参加曲（#クラリミコン）HIKAGENOKESHIKI REMIX](https://www.youtube.com/watch?v=L8vK27IDhoc)
 
 今回ストリングスが映えるリミックスをされてる方が多々おられましたが、この方のリミックスもその1人だと思います。
 要所要所に入るストリングスのキメは、楽曲のメリハリを際立たせていて盛り上がりのワンポイントになってると感じます。
@@ -106,14 +106,14 @@ YouTubeでコメントされてる方もおられましたが、ライブのオ�
 
 ### SSS さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[『Brand New Day -SSS Remix-』](https://www.youtube.com/watch?v=__gkdtEGHVY)
+* <i class="fa-brands fa-youtube fa-fw"></i>[『Brand New Day -SSS Remix-』](https://www.youtube.com/watch?v=__gkdtEGHVY)
 
 すごくリズミカルなボーカルチョップが展開されています。
 個人的にボーカルチョップ入れるのはだいぶセンスが必要だよなあって思ってるんですが、しっかりと楽曲に溶け込むように、そして際立つように盛り込まれていて唸ってしまいます。
 
 ### AqweeX さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[Brand New Day/クランとリオン（AqweeX's Remix）](https://soundcloud.com/aqweex/brand-new-dayaqweexs-remix)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[Brand New Day/クランとリオン（AqweeX's Remix）](https://soundcloud.com/aqweex/brand-new-dayaqweexs-remix)
 
 ディストーションマシマシのギターサウンドがカッコいい！
 オーディエンスがみんなヘドバンしてる光景が見えます。
@@ -122,7 +122,7 @@ YouTubeでコメントされてる方もおられましたが、ライブのオ�
 
 ### 夙夜∞夢寐 さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン - Brand New Day(夙夜∞夢寐 Remix)](https://www.youtube.com/watch?v=QQzrMx56E1k)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン - Brand New Day(夙夜∞夢寐 Remix)](https://www.youtube.com/watch?v=QQzrMx56E1k)
 
 スローテンポでゆったりとしたBrand New Dayになっています。
 スネアが刻んでいるリズムが気持ちよくリズミカルで、ただゆっくりなだけではないノリを感じさせます。
@@ -131,7 +131,7 @@ YouTubeでコメントされてる方もおられましたが、ライブのオ�
 
 ### yakki さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day/クランとリオン リミックス コンテスト応募曲](https://www.youtube.com/watch?v=Uwzbjo3msIw)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day/クランとリオン リミックス コンテスト応募曲](https://www.youtube.com/watch?v=Uwzbjo3msIw)
 
 イントロで音声を大胆に左右に振っています。
 それがトリガーになって、続きを聴きたいわ！続きを聴かせてちょうだい！と思わされます。
@@ -139,7 +139,7 @@ YouTubeでコメントされてる方もおられましたが、ライブのオ�
 
 ### KURORO さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン - Beand New Day(KURORO Remix)](https://www.youtube.com/watch?v=nJrpoQkrXh8)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン - Beand New Day(KURORO Remix)](https://www.youtube.com/watch?v=nJrpoQkrXh8)
 
 視聴者投票4位のKUROROさんのリミックス。
 YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音圧がばっちり刺さります。
@@ -150,7 +150,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### Butchie Emo さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day / クランとリオン　Remix by Butchie Emo](https://www.youtube.com/watch?v=eNOu9buOeRw)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day / クランとリオン　Remix by Butchie Emo](https://www.youtube.com/watch?v=eNOu9buOeRw)
 
 ハーフテンポを感じさせるコードを弾くシンセやパーカッションが、存分にチルできる雰囲気を出しています。
 こういった雰囲気のリミックスでラップ部分は結構難しかったんじゃないかと愚考しますが、チルい中でも主張を感じさせるアレンジになっていたと思います。
@@ -158,7 +158,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### nav さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【クラリミコンVol.1応募作品】クランとリオン - Brand New Day [nav REMIX]](https://www.youtube.com/watch?v=oNz0IQv-R7w)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【クラリミコンVol.1応募作品】クランとリオン - Brand New Day [nav REMIX]](https://www.youtube.com/watch?v=oNz0IQv-R7w)
 
 ラジオのチューニング合わせたようなオープニング、そしてセール動画からのサンプリング、一気に世界に引き込まれます。
 このセール動画からのサンプリングは、何かクラリオ動画からサンプリングしたいなと思いながら何もできなかった僕にとっては、なるほど！と思わず唸ったと同時に、すごく悔しい思いでした。
@@ -168,7 +168,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### SAKURA BEATZ.JP さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン「Brand New Day」SAKURA BEATZ.JP Remix](https://www.youtube.com/watch?v=Y8Y2P7JYh8s)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン「Brand New Day」SAKURA BEATZ.JP Remix](https://www.youtube.com/watch?v=Y8Y2P7JYh8s)
 
 今回のリミコン視聴者ランキング覇者。
 これも聴いていて悔しいと思わされた1曲です。
@@ -178,7 +178,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### \ahmori. さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day / クランとリオン(\ahmori. Remix)](https://www.youtube.com/watch?v=QfznxB2uftw)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day / クランとリオン(\ahmori. Remix)](https://www.youtube.com/watch?v=QfznxB2uftw)
 
 ユーロビートは万病に効くと言われています<i>\[要出典\]</i><br>
 ラップ部分でカッコよく抜いてくるも、終始ハイテンションでノリが良いです。
@@ -189,7 +189,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### Blankeener さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[クランとリオンREMIXコンテスト応募作品 By Blankeener](https://soundcloud.com/user-825440814/remix-by-blankeener)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[クランとリオンREMIXコンテスト応募作品 By Blankeener](https://soundcloud.com/user-825440814/remix-by-blankeener)
 
 イントロのピアノから世界が広がっています。
 かなりシネマティックなイントロとは裏腹に、Aパートが始まるとブラスがカッコよく楽曲を押し上げています。
@@ -198,7 +198,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### ラギアス さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【クラリミコン参加曲】Bramd New Day (Ragi mix)](https://www.youtube.com/watch?v=O4yyQw-rxMU)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【クラリミコン参加曲】Bramd New Day (Ragi mix)](https://www.youtube.com/watch?v=O4yyQw-rxMU)
 
 曲調はすごく優しいのですが、キックが重く響きます。
 しかしながらそのキックが支えになって、聴いてる人たちを優しく包んでくれる大きな包容力を感じます。
@@ -206,7 +206,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### 惑星P さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day (16bit Strike Back!! Remix) / クランとリオン Remixed by 惑星P](https://www.youtube.com/watch?v=nnOrKOCXwhg)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day (16bit Strike Back!! Remix) / クランとリオン Remixed by 惑星P](https://www.youtube.com/watch?v=nnOrKOCXwhg)
 
 16bitゲーム機風アレンジということで、往年の名ゲームの数々にインスパイアされたアレンジが繰り広げられています。
 いやー聴いていてすごく楽しいですね。
@@ -216,7 +216,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### mor!s さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day -KURANTORION- (Remixコンテストより)　～mor!s～](https://www.youtube.com/watch?v=uihu1lgqh1U)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day -KURANTORION- (Remixコンテストより)　～mor!s～](https://www.youtube.com/watch?v=uihu1lgqh1U)
 
 イントロや要所に入るエレピ、エモいですね。
 2番、ドラム連打はびっくりしました。なるほどドラムオンリーでこんなカッコよく魅せる方法があるのかと。
@@ -225,7 +225,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### 反対シンジケート さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【REMIX】Brand New Day / クランとリオン](https://www.youtube.com/watch?v=wWm1QFDeIDs)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【REMIX】Brand New Day / クランとリオン](https://www.youtube.com/watch?v=wWm1QFDeIDs)
 
 原曲よりもテンポが早いんですが、それでいてゆったりとした空気も感じさせるあたり、テクいですね。
 ラップ部分のウォーキングベースがすごく気持ちいいです。
@@ -233,7 +233,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### Experimental Zone j.w.+ ak style. さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[「Brand New Day」の主題による不思議で明快な小協奏曲](https://www.youtube.com/watch?v=A-A6Mi-OaH4)
+* <i class="fa-brands fa-youtube fa-fw"></i>[「Brand New Day」の主題による不思議で明快な小協奏曲](https://www.youtube.com/watch?v=A-A6Mi-OaH4)
 
 これはバロック？ゴシック？と言うのでしょうか、分類がわからず申し訳ないです。
 こういった雰囲気は今までのクランとリオンさんのアレンジコンテストでは出てこなかった(と思う)ので、すごく新鮮でした。
@@ -242,7 +242,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### ジュリー さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[Brand New Day / クランとリオン( ジュリー Remix)](https://soundcloud.com/uralake/brand-new-day-remix)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[Brand New Day / クランとリオン( ジュリー Remix)](https://soundcloud.com/uralake/brand-new-day-remix)
 
 刻んでいるシンセがカッコいいですね。
 重めのキックもしっかりリズムを刻んでいてズシンときます。
@@ -251,7 +251,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### そぼろ さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[Brand New Day soboro Remix](https://soundcloud.com/ux2soex5htjt/brand-new-day-soboro-remix)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[Brand New Day soboro Remix](https://soundcloud.com/ux2soex5htjt/brand-new-day-soboro-remix)
 
 若干スローテンポでゆったりとしていつつもノリの良いリミックスです。
 所々でベルがアクセントで入っているのですが、それがキラキラでかわいい雰囲気に仕上がっていてすごく好きです。
@@ -260,7 +260,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### NCTRN さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン - BrandNewDay(NCTRN Remix) MV](https://www.youtube.com/watch?v=8wDiGwFSXPM)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン - BrandNewDay(NCTRN Remix) MV](https://www.youtube.com/watch?v=8wDiGwFSXPM)
 
 イントロのスチールドラム、いいですね。スチールドラムの音色好きです。
 南国を思わせるようなトロピカルな雰囲気も大変良いです。
@@ -269,7 +269,7 @@ YouTube概要欄「音圧を感じろ！！！！！」の圧、その通り音�
 
 ### チョメチョメ初心者といいま～す さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クラリミコンのフル尺でおまぁ～ｗ](https://www.youtube.com/watch?v=G08cSD915M8)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クラリミコンのフル尺でおまぁ～ｗ](https://www.youtube.com/watch?v=G08cSD915M8)
 
 疾走感あふれるトランスでノリがすごく良いですね。
 音楽理論とかよくわからないのでちゃんとは言えないのですが、たまに鳴っているコードが不協和音ぽく聴こえるんですが、それが曲へ惹きつけるアクセントになっている気がします。
@@ -279,7 +279,7 @@ Twitter、YouTube、投稿者名がそれぞれ異なるので若干彷徨いま
 
 ### RND.K a.k.a. 雨色神撫 さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【Remix】Brand New Day (RND.K Full Flavor MIX)【クランとリオン リミックスコンテスト vol.1 応募作品】](https://www.youtube.com/watch?v=ha9MXxxmpsE)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【Remix】Brand New Day (RND.K Full Flavor MIX)【クランとリオン リミックスコンテスト vol.1 応募作品】](https://www.youtube.com/watch?v=ha9MXxxmpsE)
 
 過去のコンテストでも高い完成度を誇る雨色神撫さんですが、今回もさすがのお手前というリミックスです。
 クラリオ動画のOPで流れる曲をうまく盛り込んでいるのも匠を感じます。
@@ -289,7 +289,7 @@ Twitter、YouTube、投稿者名がそれぞれ異なるので若干彷徨いま
 
 ### コーギー さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[BrandNewDay -Remix-](https://soundcloud.com/user-640058647/brandnewday-master)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[BrandNewDay -Remix-](https://soundcloud.com/user-640058647/brandnewday-master)
 
 ピアノソロからジャッジャッジャッと入るイントロ(伝われ)、良いの塊です。
 リズミカルに刻んでるベース、サビに入って一気に出てくるストリングス、全体を支えているドラム、どれを取っても気持ちいいです。
@@ -298,7 +298,7 @@ Twitter、YouTube、投稿者名がそれぞれ異なるので若干彷徨いま
 
 ### Shota Kanzaki Berg さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[Brand New Day (Shota Kanzaki Berg remix)](https://soundcloud.com/smallbluewhale/brand-new-day-skb-remix)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[Brand New Day (Shota Kanzaki Berg remix)](https://soundcloud.com/smallbluewhale/brand-new-day-skb-remix)
 
 Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象がありましたが、今回は打って変わって展開の多い激しいリミックスをされていました。
 どちらがこの方の真骨頂なのかは僕が推し量るのもおこがましいですが、今回の完成度を見るにおそらくどちらも真骨頂なのかもしれません。
@@ -306,7 +306,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### ZiniA さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day -KURANTORION- (ZiniA Remix)](https://www.youtube.com/watch?v=QbafXN2TKbM)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day -KURANTORION- (ZiniA Remix)](https://www.youtube.com/watch?v=QbafXN2TKbM)
 
 のっけからハイテンションで高まります。
 左右に振ったキラキラなシンセや間奏のピアノ、うまく馴染んでいて気持ちがいいですね。
@@ -316,7 +316,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### たいさ さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[KURANTORION - Brand New Day [Taisa Remix]](https://soundcloud.com/taisa-ddr/kurantorion-brand-new-day-taisa-remix)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[KURANTORION - Brand New Day [Taisa Remix]](https://soundcloud.com/taisa-ddr/kurantorion-brand-new-day-taisa-remix)
 
 イントロの音の鳴りがすごくシネマティックで壮大さを感じさせます。
 刻んでるスネアの音も気持ちよくて、曲の雰囲気も相まってシアターで1本映画を見終えたような満足感を得られました。
@@ -324,7 +324,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### りだ さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【remix?】Brand New Day（りだremix）](https://www.youtube.com/watch?v=XwzN5lc_49M)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【remix?】Brand New Day（りだremix）](https://www.youtube.com/watch?v=XwzN5lc_49M)
 
 ガチのロックでイントロからバッチリカッコいい！
 ラップ部分は、ラップとギターとのデュオのようになっていてこれがまた最高にカッコいいです。
@@ -333,7 +333,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### アノニマ☆イッヌ さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クラリミコン参加曲　アノニマ☆イッヌ](https://www.youtube.com/watch?v=GjocdfPktYw)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クラリミコン参加曲　アノニマ☆イッヌ](https://www.youtube.com/watch?v=GjocdfPktYw)
 
 原曲よりは若干スローテンポなのですが、ノリ良くいろんな展開がされていて聴いていて楽しいです。
 また、2番の合間合間にブレイクも入れてくるので、オッと続きを聴きたくなってしまいます。匠。
@@ -342,7 +342,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### ポメラ さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[クラリミコン ポメラ](https://soundcloud.com/nian-pomera/sumbuidc2o44)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[クラリミコン ポメラ](https://soundcloud.com/nian-pomera/sumbuidc2o44)
 
 ハーフテンポを感じさせる落ち着いた雰囲気がスタイリッシュです。
 合間合間に入れる全然異なった雰囲気なパートやピッチ落としたボーカル等々、各所にオシャレなセンスが光ります。
@@ -352,7 +352,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### 田吾作 さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【Remix 田吾作Ver】クランとリオン　Brand New Day](https://www.youtube.com/watch?v=cEyswKpiPOg)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【Remix 田吾作Ver】クランとリオン　Brand New Day](https://www.youtube.com/watch?v=cEyswKpiPOg)
 
 優しくも勢いのある、とても楽しく聴けるリミックスです。
 ストリングスの音色、メロディが大変きれいで、聴きながらうまいなあと唸ってしまいます。
@@ -362,7 +362,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### I.S.E. さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【クランとリオン】Brand New Days REMIX - I.S.E.](https://www.youtube.com/watch?v=-nglIzqpqW4)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【クランとリオン】Brand New Days REMIX - I.S.E.](https://www.youtube.com/watch?v=-nglIzqpqW4)
 
 低音から始まるイントロがアンダーグラウンドを感じさせます。
 聴き入っていたらいつの間にか曲が終わってました。
@@ -371,7 +371,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### 次男 さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン「Brand new day」 リミックスコンテスト 参加作品](https://www.youtube.com/watch?v=2I6Rxf6KtPA)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン「Brand new day」 リミックスコンテスト 参加作品](https://www.youtube.com/watch?v=2I6Rxf6KtPA)
 
 オシャレオブオシャレジャズ。
 ストリングスの響きがオシャレ。
@@ -384,7 +384,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### 文之丞 さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【Eurobeat】Brand New Day 文之丞 Remix](https://www.youtube.com/watch?v=ElBRFjh2EUc)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【Eurobeat】Brand New Day 文之丞 Remix](https://www.youtube.com/watch?v=ElBRFjh2EUc)
 
 これまたハイテンションなユーロビートで聴いていてアガります。
 2番はラップも相まって1番とはまた違った展開をされているのが良いですね。
@@ -394,7 +394,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### ぽっぽ さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン REMIXコンテスト 投稿曲 ぽっぽ](https://www.youtube.com/watch?v=v-RfUKxqL1E)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン REMIXコンテスト 投稿曲 ぽっぽ](https://www.youtube.com/watch?v=v-RfUKxqL1E)
 
 ノリの良いアニソン感あるリミックスで、ストリングスの動きが気持ち良いです。
 2番の最初、1番とは展開を変えていて、1曲を通して飽きさせないためにもやったほうが良いとは僕も思うのですが、どうにもうまくできません。
@@ -403,7 +403,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### hirono さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Remix [Brand New Day]（異世界冒険アニソン風） クランとリオン](https://www.youtube.com/watch?v=e4_L0XSsJjQ)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Remix [Brand New Day]（異世界冒険アニソン風） クランとリオン](https://www.youtube.com/watch?v=e4_L0XSsJjQ)
 
 異世界冒険アニソン風ということで、まさにその世界を具現化できていると感じます。
 街のお店で買い物しているシーンや食事シーン、そして戦闘シーン、果てはちょっとお風呂覗いちゃっていやーんエッチ！な映像すらはっきりと見えてきそうです。
@@ -413,7 +413,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### ゴンからの手紙 さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[Brand New Day (Mr.Moonlight's Early Morning Seaside Remix)](https://soundcloud.com/wbxdh07uzohd/brand-new-day-mrmoonlights-early-morning-seaside-remix-1)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[Brand New Day (Mr.Moonlight's Early Morning Seaside Remix)](https://soundcloud.com/wbxdh07uzohd/brand-new-day-mrmoonlights-early-morning-seaside-remix-1)
 
 自分ジャンル感なくて申し訳ないのですが、プログレッシブトランスというんですね。
 イントロから印象的なフレーズが繰り返されていて独自の世界が繰り広げられています。
@@ -422,7 +422,7 @@ Shota Kanzaki Bergさんはいつもステキなピアノアレンジの印象�
 
 ### 神薙 さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【Remix】 Brand New Day【クランとリオン】](https://www.youtube.com/watch?v=a8qd_7nOfwc)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【Remix】 Brand New Day【クランとリオン】](https://www.youtube.com/watch?v=a8qd_7nOfwc)
 
 トランス感も感じます。
 シンセのアルペジオが良いアクセントになっていて気持ちいいです。
@@ -433,7 +433,7 @@ Bメロの笛の音もまた違った雰囲気を出していて神薙さんの�
 
 ### 44UT さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[Brand New Day リミックス](https://soundcloud.com/ohrpnvgi0hvx/brand-new-day)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[Brand New Day リミックス](https://soundcloud.com/ohrpnvgi0hvx/brand-new-day)
 
 のっけから「おっほ、カッコええ」と思わず声出てしまいます。
 ライザーで盛り上げた後、すっと落として聴かせに来るのは匠の技が光ってるなと思います。
@@ -442,7 +442,7 @@ Bメロの笛の音もまた違った雰囲気を出していて神薙さんの�
 
 ### まみナス さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【クラリミコン】「Brand New Day-JapaneseVer.-」【アレンジ曲】](https://www.youtube.com/watch?v=FHPV3MyzaAk)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【クラリミコン】「Brand New Day-JapaneseVer.-」【アレンジ曲】](https://www.youtube.com/watch?v=FHPV3MyzaAk)
 
 全曲視聴会でもリオンさんが仰られていましたが、実に「和」です。
 本当に「和」で本当にかっこいい。
@@ -453,7 +453,7 @@ Bメロの笛の音もまた違った雰囲気を出していて神薙さんの�
 
 ### 虹島夕夜 さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day 〜Nijishima Mix〜](https://www.youtube.com/watch?v=ck3MpdgFnwo)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day 〜Nijishima Mix〜](https://www.youtube.com/watch?v=ck3MpdgFnwo)
 
 今回視聴者投票2位のリミックス。
 これもすごくオシャレですね。
@@ -464,7 +464,7 @@ Bメロの笛の音もまた違った雰囲気を出していて神薙さんの�
 
 ### onDrive さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[Brand New Day / クランとリオン(on Drive Remix)](https://soundcloud.com/it-670191500/brand-new-day-on-drive-remix)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[Brand New Day / クランとリオン(on Drive Remix)](https://soundcloud.com/it-670191500/brand-new-day-on-drive-remix)
 
 どこか浮遊感の漂う空気の中で響くキックが気持ち良いですね。
 2番はまた打って変わってベースが響いていて体内をえぐられている気がします。
@@ -473,7 +473,7 @@ Bメロの笛の音もまた違った雰囲気を出していて神薙さんの�
 
 ### Distたけ さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【Remix】Brand New Day（クランとリオン） リミックスコンテスト応募作品](https://www.youtube.com/watch?v=nc_i7YAbuP0)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【Remix】Brand New Day（クランとリオン） リミックスコンテスト応募作品](https://www.youtube.com/watch?v=nc_i7YAbuP0)
 
 イントロからリオンさんのボーカルを利かせていてカッコよく、ぐっと惹きつけられます。
 クランさんのソロを左右に振ってゆったりと聴かせるのはテクいですね、思わず「ああああ～いいわああ～～」と気持ちの良くない笑みを浮かべてしまいました。
@@ -481,7 +481,7 @@ Bメロの笛の音もまた違った雰囲気を出していて神薙さんの�
 
 ### DolNia さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[Brand New Day -DolNia Remix-](https://soundcloud.com/user-155117634/brand-new-day-dolnia-remix)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[Brand New Day -DolNia Remix-](https://soundcloud.com/user-155117634/brand-new-day-dolnia-remix)
 
 DolNiaさんといえばUK Hardcore！という代名詞的リミックス。
 サビがめちゃくちゃカッコいいです。
@@ -491,7 +491,7 @@ DolNiaさんといえばUK Hardcore！という代名詞的リミックス。
 
 ### ねばりのシタール さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day ねばりのシタールremix](https://www.youtube.com/watch?v=uGMciv1FSvM)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day ねばりのシタールremix](https://www.youtube.com/watch?v=uGMciv1FSvM)
 
 歯切れのよいギターと上に乗るピアノが大変気持ちの良い曲になっています。
 2番になっていきなりピコピコサウンド、ラップ部分ではしっとりLo-Fi、場面場面の展開を繰り広げられています。
@@ -500,7 +500,7 @@ DolNiaさんといえばUK Hardcore！という代名詞的リミックス。
 
 ### 黒々 - Kuro Guro - さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【クラリミコン】クランとリオン　Brand new day Arrange By 黒々- Kuro Guro -](https://www.youtube.com/watch?v=4kuk8druB60)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【クラリミコン】クランとリオン　Brand new day Arrange By 黒々- Kuro Guro -](https://www.youtube.com/watch?v=4kuk8druB60)
 
 のっけからバッチバチにキマったギターとドラムdkdk、最高ですね。
 このメタル感でラップ部分どうなるんだろうと思っていたのですが、そんな心配なんて杞憂でした。
@@ -511,7 +511,7 @@ DolNiaさんといえばUK Hardcore！という代名詞的リミックス。
 
 ### Fuming Cat さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン - Brand New Day (Fuming Cat Remix)](https://www.youtube.com/watch?v=1TZKa9c3_hg)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン - Brand New Day (Fuming Cat Remix)](https://www.youtube.com/watch?v=1TZKa9c3_hg)
 
 ズシンズシン来る重いキック、良いです。
 合間合間に入るエフェクトもどれもこれもかわいかったりきれいだったりで、すごく気持ちの良いサウンドになっている気がします。
@@ -521,7 +521,7 @@ DolNiaさんといえばUK Hardcore！という代名詞的リミックス。
 
 ### S.KT. さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[[Remixed by S.KT.] クランとリオン - Brand New Day(S.KT. 一新紀元 Remix) [Lyric Video]](https://www.youtube.com/watch?v=3kSiTugfoZA)
+* <i class="fa-brands fa-youtube fa-fw"></i>[[Remixed by S.KT.] クランとリオン - Brand New Day(S.KT. 一新紀元 Remix) [Lyric Video]](https://www.youtube.com/watch?v=3kSiTugfoZA)
 
 特撮テーマという、今回唯一無二の世界を展開されていました。
 特撮のOPといえば、ストーリーを盛り上げるイントロ中の口上がありますが、それまでしっかりと入れられていて作り込みのすごさを感じます。
@@ -530,7 +530,7 @@ DolNiaさんといえばUK Hardcore！という代名詞的リミックス。
 
 ### ROCK さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン　リミックスコンテスト　Brand New Day ( ROCK Remix )](https://www.youtube.com/watch?v=vANwpGNnQCE)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン　リミックスコンテスト　Brand New Day ( ROCK Remix )](https://www.youtube.com/watch?v=vANwpGNnQCE)
 
 イントロから印象的なフレーズが繰り返されており、これはクセになります。中毒になってしまいます。
 サビのワウワウなギターですかね？それも曲のノリにマッチしていて中毒症状を煽ります。
@@ -541,7 +541,7 @@ DolNiaさんといえばUK Hardcore！という代名詞的リミックス。
 
 ### Chiguwaka さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day - Chiguwaka Remix【クランとリオンRemixコンテスト】](https://www.youtube.com/watch?v=4w0WOZd0v-s)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day - Chiguwaka Remix【クランとリオンRemixコンテスト】](https://www.youtube.com/watch?v=4w0WOZd0v-s)
 
 ピアノがとてもおしゃれなリミックスですね。
 コード感がなんだか独特ですかね？オシャレな雰囲気とはまた違ったグッとくるものがある気がします。
@@ -550,7 +550,7 @@ DolNiaさんといえばUK Hardcore！という代名詞的リミックス。
 
 ### よいち さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[”Brand New Day” Rimix by Yoichi](https://soundcloud.com/reon-320108659/brand-new-day-rimix-by-yoichi)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[”Brand New Day” Rimix by Yoichi](https://soundcloud.com/reon-320108659/brand-new-day-rimix-by-yoichi)
 
 イントロから入るオーディエンス、クランさんソロ、リオンさんラップ、魅せますね。
 ステージにお二人が登場して一気にライブが盛り上がる情景が見えます。
@@ -559,7 +559,7 @@ DolNiaさんといえばUK Hardcore！という代名詞的リミックス。
 
 ### Wag@Beep さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[リミックスコンテスト表彰式](https://www.youtube.com/watch?v=jfsQm2qxyLk&t=5380s)
+* <i class="fa-brands fa-youtube fa-fw"></i>[リミックスコンテスト表彰式](https://www.youtube.com/watch?v=jfsQm2qxyLk&t=5380s)
 
 ※リンクは表彰会配信アーカイブのタイムスタンプつきになっています。<br>
 クランとリオンミニアルバム「BREAK THE WALL」に収録されることが決定したのが、Wag@Beepさんのリミックス。
@@ -572,7 +572,7 @@ Wag@Beepさん得意のピコピコサウンドを存分に生かして、各場
 
 ### ギョーザは飲み物 さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[KURANTORION - BrandNewDay(Remix by Gz drink)](https://soundcloud.com/s-t-363404485/wav)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[KURANTORION - BrandNewDay(Remix by Gz drink)](https://soundcloud.com/s-t-363404485/wav)
 
 フェードインからのイントロ、エモいですね。
 静かにコードを鳴らすシンセの響きもあいまって聴かせてきます。
@@ -582,7 +582,7 @@ Wag@Beepさん得意のピコピコサウンドを存分に生かして、各場
 
 ### tamano さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[クランとリオン - Brand New Day (tamano remix)](https://soundcloud.com/tamano1108/brand-new-day-tamano-remix)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[クランとリオン - Brand New Day (tamano remix)](https://soundcloud.com/tamano1108/brand-new-day-tamano-remix)
 
 イントロのボーカルのエフェクト、カッコいいですね！
 イントロなのにビルドアップからのドロップきたー！みたいな盛り上がりを感じます。
@@ -593,7 +593,7 @@ Wag@Beepさん得意のピコピコサウンドを存分に生かして、各場
 
 ### とみお さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[Brand New Day Tomio Remix](https://soundcloud.com/user-153724872/brand-new-day-tomio-remix)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[Brand New Day Tomio Remix](https://soundcloud.com/user-153724872/brand-new-day-tomio-remix)
 
 オープニングからがっつりベースにラップで心臓を掴まれます。
 Aメロでピアノでしっとり聴かせてまたFuture Bass感あるBメロ、そしてボーカルエフェクト効いたサビ、さすがの展開ですねえ。
@@ -602,7 +602,7 @@ Aメロでピアノでしっとり聴かせてまたFuture Bass感あるBメロ�
 
 ### NaranaraP さん
 
-* <fa icon="fa-brands fa-twitter fa-fw"></fa>[Twitter](https://twitter.com/naranara_narap/status/1641493421604081666)
+* <i class="fa-brands fa-twitter fa-fw"></i>[Twitter](https://twitter.com/naranara_narap/status/1641493421604081666)
 
 すごくかわいい雰囲気になっていて、ゆったりと、そしてとても気持ちよく浸りながら聴けますね。
 道中ポロロン、ポロロンと鳴っているベル、高音で左右に流れているベル、いやーいいですね。
@@ -611,7 +611,7 @@ Twitterにアップされていたものは途中で切れてしまっている�
 
 ### 006 さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[クランとリオン リミックスコンテスト Vol.1 応募曲](https://soundcloud.com/plot006/wxsdt9iymtv4)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[クランとリオン リミックスコンテスト Vol.1 応募曲](https://soundcloud.com/plot006/wxsdt9iymtv4)
 
 アレンジコンテスト初回から常にランクインされていた006さんの作品。
 今回も5位で毎回のランクインという快挙を成し遂げられました。
@@ -622,7 +622,7 @@ Twitterにアップされていたものは途中で切れてしまっている�
 
 ### Booker-2H さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン - Brand New Day (Booker-2H Remix)](https://www.youtube.com/watch?v=hpF2spw9Vaw)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン - Brand New Day (Booker-2H Remix)](https://www.youtube.com/watch?v=hpF2spw9Vaw)
 
 イントロからファンファンめのシンセ(伝われ)が「あああーーいいーーー」ってなります。
 サビがいわゆるビルドアップで、そのあとにドロップって感じの構成でしょうか。
@@ -632,7 +632,7 @@ Twitterにアップされていたものは途中で切れてしまっている�
 
 ### ガジットガッキュ さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【Remix】Brand New Day / クランとリオン - ( ガジットガッキュ Remix )【クラリミコン応募作品】](https://www.youtube.com/watch?v=01bAA0Fvies)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【Remix】Brand New Day / クランとリオン - ( ガジットガッキュ Remix )【クラリミコン応募作品】](https://www.youtube.com/watch?v=01bAA0Fvies)
 
 ギターがカッコいい！
 ドラムもしっかり全体を支えている感じが伝わり、ノれて気持ち良いです。
@@ -642,7 +642,7 @@ Twitterにアップされていたものは途中で切れてしまっている�
 
 ### トランス作るマン さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day (クランとリオン) - Trance Remix](https://www.youtube.com/watch?v=_qokoCzoLik)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day (クランとリオン) - Trance Remix](https://www.youtube.com/watch?v=_qokoCzoLik)
 
 名は体を表すを体現するかのような最高なトランス。
 聴いた瞬間に「ヒョー！これこれ！」とテンションが上がります。
@@ -652,7 +652,7 @@ Twitterにアップされていたものは途中で切れてしまっている�
 
 ### 大将 さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[KURANTORION REMIX CONTEST by大将](https://www.youtube.com/watch?v=9IIg94UgRKk)
+* <i class="fa-brands fa-youtube fa-fw"></i>[KURANTORION REMIX CONTEST by大将](https://www.youtube.com/watch?v=9IIg94UgRKk)
 
 ドラムがけっこう他にはない独特なリズムをしている気がします。特にAメロ。
 スネアのンタタン、ンタタンな感じがベースになってますかね？
@@ -663,7 +663,7 @@ FXやブレイク、コードで注意を引くのは多いと思いますが、
 
 ### ひゆー さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【クランとリオン】Brand New Day【Remix】](https://www.youtube.com/watch?v=IBVs-PxM1jU)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【クランとリオン】Brand New Day【Remix】](https://www.youtube.com/watch?v=IBVs-PxM1jU)
 
 イントロ、ストリングスに惹かれますが裏で鳴ってるギターすごいテクくないですか？
 動画見たらギター打ち込みなんですね。
@@ -675,7 +675,7 @@ FXやブレイク、コードで注意を引くのは多いと思いますが、
 
 ### KS spell さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン - Brand New Day REMIX(KS spell)](https://www.youtube.com/watch?v=_U14SbQvKes)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン - Brand New Day REMIX(KS spell)](https://www.youtube.com/watch?v=_U14SbQvKes)
 
 ストリングスアレンジが映えます。
 チェロやコントラバスがしっかり仕事してると楽曲全体の支えになって、すごく聴かせる空気に仕上がりますね。
@@ -685,7 +685,7 @@ FXやブレイク、コードで注意を引くのは多いと思いますが、
 
 ### ヒロム レオン さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand new day (Leon remix)](https://www.youtube.com/watch?v=Ba01aIKyIs0)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand new day (Leon remix)](https://www.youtube.com/watch?v=Ba01aIKyIs0)
 
 なんだか、リズムの取り方がすごく独特ですね。
 YouTubeのコメントでも仰られてる方がいますが、ポリリズムというやつでしょうか。
@@ -695,7 +695,7 @@ YouTubeのコメントでも仰られてる方がいますが、ポリリズム�
 
 ### フェルシー さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クランとリオン「Brand New Day」フェルシー～ほいほいほいRemix～](https://www.youtube.com/watch?v=z5SX9OSGtT0)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クランとリオン「Brand New Day」フェルシー～ほいほいほいRemix～](https://www.youtube.com/watch?v=z5SX9OSGtT0)
 
 ギターやベース、ドラムが効いたバンドサウンドにシンセの音がバッチリ決まっています。
 2番前のドラムフィルいいですね、こういうシンプルなフィルも大好物です。
@@ -705,7 +705,7 @@ YouTubeのコメントでも仰られてる方がいますが、ポリリズム�
 
 ### youthUK さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【Remix】Brand New Day / クランとリオン - ( youthUK Remix )【クラリミコン応募作品】](https://www.youtube.com/watch?v=HocHfi_XSUs)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【Remix】Brand New Day / クランとリオン - ( youthUK Remix )【クラリミコン応募作品】](https://www.youtube.com/watch?v=HocHfi_XSUs)
 
 今回視聴者投票3位だったyouthUKさんのリミックス。
 サビのストリングスの動き、すごく気持ちよくて、こういうのを作りたい！と思わされます。
@@ -715,7 +715,7 @@ YouTubeのコメントでも仰られてる方がいますが、ポリリズム�
 
 ### はっさく さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[Brand New Day Rimix By はっさく](https://soundcloud.com/has-saku47281/brand-new-day-rimix-by-3)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[Brand New Day Rimix By はっさく](https://soundcloud.com/has-saku47281/brand-new-day-rimix-by-3)
 
 ピアノがすごく気持ちいいです。
 Bメロから徐々に聴こえてくるストリングス、うまいですね。
@@ -725,7 +725,7 @@ Bメロから徐々に聴こえてくるストリングス、うまいですね�
 
 ### T さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day \[T Remix\]](https://www.youtube.com/watch?v=hfyh6eGQd6w)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day \[T Remix\]](https://www.youtube.com/watch?v=hfyh6eGQd6w)
 
 しっとりめのイントロからキックの効いたAメロへの移行、良いです。
 ジャンル的にはFutureなんちゃらになるんですかね？
@@ -737,7 +737,7 @@ Bメロから徐々に聴こえてくるストリングス、うまいですね�
 
 ### 部長 さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[Brand New Day （部長Remix）](https://www.youtube.com/watch?v=Ighycjz8UCY)
+* <i class="fa-brands fa-youtube fa-fw"></i>[Brand New Day （部長Remix）](https://www.youtube.com/watch?v=Ighycjz8UCY)
 
 イントロから独特の雰囲気を演出しています。
 途中ドラムを入れなかったりブレイクを入れたり、展開がうまいなと思います。
@@ -747,7 +747,7 @@ Bメロから徐々に聴こえてくるストリングス、うまいですね�
 
 ### とこなつ さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[BrandNewDay(Tokonatsu Remix)](https://soundcloud.com/htxgm3nesbwh/brandnewdaytokonatsu-remix)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[BrandNewDay(Tokonatsu Remix)](https://soundcloud.com/htxgm3nesbwh/brandnewdaytokonatsu-remix)
 
 キックが重くてズシンズシンきますね、うひょー！
 A、Bはしっとりと聴かせてきますが、その分サビが盛り上がりますね。
@@ -759,7 +759,7 @@ A、Bはしっとりと聴かせてきますが、その分サビが盛り上が
 
 ### tsuka さん
 
-* <fa icon="fa-brands fa-soundcloud fa-fw"></fa>[Brand New Day Remix](https://soundcloud.com/vrlggfbnxyc8/brand-new-day-remix)
+* <i class="fa-brands fa-soundcloud fa-fw"></i>[Brand New Day Remix](https://soundcloud.com/vrlggfbnxyc8/brand-new-day-remix)
 
 イントロ、アウトロで流れているカラベっぽいサウンドがカッコいいですね。
 こういう音、聴いててカッコいいなあとは思うんですが、いざ自分で使おうとするとどう使えばいいのか全然わかりません。
@@ -770,7 +770,7 @@ Bメロのところはとてもメロディアスなピアノが心地よくゆ�
 
 ### kazu さん
 
-* <fa icon="fa-brands fa-twitter fa-fw"></fa>[Twitter](https://twitter.com/KAZ36961871/status/1642178544989245442)
+* <i class="fa-brands fa-twitter fa-fw"></i>[Twitter](https://twitter.com/KAZ36961871/status/1642178544989245442)
 
 スローテンポでとても優しい曲調に仕上がっています。
 しかし優しいだけじゃなく、しっかりと背中を押してくれているような、そんな力強さも感じます。
@@ -779,7 +779,7 @@ Bメロのところはとてもメロディアスなピアノが心地よくゆ�
 
 ### SETSU さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【SETSU Remix】クランとリオン - Brand New Day（SETSU Remix）](https://www.youtube.com/watch?v=6GY8agEBx6Y)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【SETSU Remix】クランとリオン - Brand New Day（SETSU Remix）](https://www.youtube.com/watch?v=6GY8agEBx6Y)
 
 イントロのエフェクト、かわいくて楽しいです。かわたのしい。
 サビの半音下がっていくコード進行？もカッコいいです。
@@ -791,7 +791,7 @@ Bメロのところはとてもメロディアスなピアノが心地よくゆ�
 
 ### Keiichi Yamashita さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[クラリミコン 未発表曲　Brand New Day - Single](https://www.youtube.com/watch?v=ALMDjskldUk)
+* <i class="fa-brands fa-youtube fa-fw"></i>[クラリミコン 未発表曲　Brand New Day - Single](https://www.youtube.com/watch?v=ALMDjskldUk)
 
 操作ミス？で応募できなかったとのことでしたが、フル版をアップしてくださっていました。<br>
 のっけからのオケヒ、大好物です。
@@ -801,7 +801,7 @@ Bメロのところはとてもメロディアスなピアノが心地よくゆ�
 
 ### NORIMO さん
 
-* <fa icon="fa-brands fa-youtube fa-fw"></fa>[【Remix】Brand New Day （NORIMO Remix）](https://www.youtube.com/watch?v=mZlHOAIHg64)
+* <i class="fa-brands fa-youtube fa-fw"></i>[【Remix】Brand New Day （NORIMO Remix）](https://www.youtube.com/watch?v=mZlHOAIHg64)
 
 締め切りには間に合わなかったとのことでしたが、楽曲自体は完成したとのことで動画をアップしてくださいました。<br>
 ピアノのリフにシンセを重ねているのがすごくエモいです。

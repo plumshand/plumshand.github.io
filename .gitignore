@@ -2,3 +2,4 @@ node_modules/
 .temp
 .cache
 *.swp
+src/.vuepress/dist/

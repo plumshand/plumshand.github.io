@@ -1,9 +1,9 @@
 import { defineUserConfig, viteBundler } from 'vuepress';
 import { path } from '@vuepress/utils'
 import { containerPlugin } from '@vuepress/plugin-container'
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics'
 import { registerComponentsPlugin } from '@vuepress/plugin-register-components'
 import { ogpPlugin } from './ogp'
-import { faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons'
 import { makeBlog } from './make-blog';
 import localTheme from './plumstheme/src/node'
 
@@ -15,9 +15,9 @@ export default defineUserConfig({
 
     head: [
         [ 'link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Kosugi+Maru' } ],
-        //[ 'script', { defer: true, src: '/fonts/js/fontawesome.min.js' } ],
-        //[ 'script', { defer: true, src: '/fonts/js/solid.min.js' } ],
-        //[ 'script', { defer: true, src: '/fonts/js/brands.min.js' } ],
+        [ 'script', { defer: true, src: '/fonts/js/fontawesome.min.js' } ],
+        [ 'script', { defer: true, src: '/fonts/js/solid.min.js' } ],
+        [ 'script', { defer: true, src: '/fonts/js/brands.min.js' } ],
     ],
 
     theme: localTheme({
@@ -27,8 +27,8 @@ export default defineUserConfig({
             '/': {
                 lastUpdatedText: '更新日時',
                 navbar: [
-                    { icon: faTwitter, link: 'https://twitter.com/plumshand', noExternalIcon: true },
-                    { icon: faYoutube, link: 'https://www.youtube.com/@plumshand', noExternalIcon: true },
+                    { icon: 'fa-brands fa-twitter', link: 'https://twitter.com/plumshand', noExternalIcon: true },
+                    { icon: 'fa-brands fa-youtube', link: 'https://www.youtube.com/@plumshand', noExternalIcon: true },
                 ]
             },
         },
@@ -57,6 +57,9 @@ export default defineUserConfig({
             type: 'danger',
             before: (info: string): string => `<div class="custom-container danger">${info ? `<p class="custom-container-title">${info}</p>` : ''}\n`,
             after: (): string => '</div>\n',
+        }),
+        googleAnalyticsPlugin({
+            id: 'G-9ZJJXGS2B6',
         }),
         ogpPlugin({
             options: {
