@@ -1,5 +1,8 @@
 <script setup lang="ts">
 import PageMeta from '@theme/PageMeta.vue'
+
+const year = new Date().getFullYear()
+const copyRightYear = (year != 2023) ? `2023 - ${year}` : "2023"
 </script>
 
 <template>
@@ -18,7 +21,7 @@ import PageMeta from '@theme/PageMeta.vue'
 
         <slot name="bottom" />
 
-        <div :class="$style.footer">Copyright &copy; 2023 すももの手</div>
+        <div :class="$style.footer">Copyright &copy; {{copyRightYear}} すももの手</div>
     </main>
 </template>
 
