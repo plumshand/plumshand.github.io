@@ -1,6 +1,6 @@
 ---
 description: BREAK THE WALLリミックスフル版を聴かせて頂いた感想とかとか
-udpatedDate: 2023/08/14 10:50:23 +0900
+updatedDate: 2023/08/14 10:50:23 +0900
 ---
 
 # BREAK THE WALL感想をつらつらと

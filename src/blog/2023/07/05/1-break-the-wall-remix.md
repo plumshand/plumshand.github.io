@@ -1,6 +1,6 @@
 ---
 description: BREAK THE WALLリミックスでの自分の応募曲についてってってって
-updateDate: 2023/07/05 19:08:13 +0900
+updatedDate: 2023/07/05 19:08:13 +0900
 ---
 
 # BREAK THE WALLリミックス

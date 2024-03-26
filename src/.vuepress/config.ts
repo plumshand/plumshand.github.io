@@ -27,7 +27,7 @@ export default defineUserConfig({
             '/': {
                 lastUpdatedText: '更新日時',
                 navbar: [
-                    { icon: 'fa-brands fa-twitter', link: 'https://twitter.com/plumshand', noExternalIcon: true },
+                    { icon: 'fa-brands fa-x-twitter', link: 'https://twitter.com/plumshand', noExternalIcon: true },
                     { icon: 'fa-brands fa-youtube', link: 'https://www.youtube.com/@plumshand', noExternalIcon: true },
                 ]
             },
